@@ -8,5 +8,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ## Activity 2
 
 ## Activity 3
+![](/media/A3-1.png)
 
 ## Activity 4

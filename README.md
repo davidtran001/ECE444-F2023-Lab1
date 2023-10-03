@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 ## David Tran
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
